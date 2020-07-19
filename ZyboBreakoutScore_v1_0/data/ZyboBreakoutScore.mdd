@@ -1,0 +1,10 @@
+
+
+OPTION psf_version = 2.1;
+
+BEGIN DRIVER ZyboBreakoutScore
+	OPTION supported_peripherals = (ZyboBreakoutScore);
+	OPTION copyfiles = all;
+	OPTION VERSION = 1.0;
+	OPTION NAME = ZyboBreakoutScore;
+END DRIVER
