@@ -1,6 +1,6 @@
 `timescale 1ns / 1ps
 //////////////////////////////////////////////////////////////////////////////////
-// By Omar Aquino Pineda
+// 
 // File Name: V_Sync.v
 // The following module is for the vertical synchronization. The count
 // is from 0 to 525. The count increments when it receives a horizontal 
