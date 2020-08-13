@@ -1,6 +1,6 @@
 `timescale 1ns / 1ps
 //////////////////////////////////////////////////////////////////////////////////
-// By Omar Aquino Pineda
+// 
 // File Name: pGen25Mhz.v
 // The following module sends a postivie signal (tick25Mhz) every 25Mhz assuming 
 // that the clock's (clk) frequency runs at 100Mhz. The desired count value is 
