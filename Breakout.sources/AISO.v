@@ -1,6 +1,6 @@
 `timescale 1ns / 1ps
 //////////////////////////////////////////////////////////////////////////////////
-// By Omar Aquino Pineda
+// 
 // File Name: AISO.v
 // The following moduel stands for Asynchronous In Synchronous Out.
 // It provides the reset for the rest of the modules in the top module. 
