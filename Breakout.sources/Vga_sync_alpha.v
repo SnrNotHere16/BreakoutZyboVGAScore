@@ -1,6 +1,6 @@
 `timescale 1ns / 1ps
 //////////////////////////////////////////////////////////////////////////////////
-// By Omar Aquino Pineda
+// 
 // File Name: Vga_sync_alpha.v
 // The following module is the vga synchronization which consists of an
 // AISO, Pulse generator and Horizontal Sync, vertical sync, and an rgb output.
