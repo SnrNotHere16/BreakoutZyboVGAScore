@@ -1,9 +1,9 @@
 `timescale 1ns / 1ps
 //////////////////////////////////////////////////////////////////////////////////
-// CECS 361 - Fall 2019
-// Professor John Tramel
-// Lab2
-// By Omar Aquino Pineda
+// 
+//
+//
+// 
 // File Name: Pgen_HSync.v
 // The following module consists of a 25Mhz pulse generator and a horizontal 
 // synchronizaation.  
