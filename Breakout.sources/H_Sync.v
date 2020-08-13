@@ -1,6 +1,6 @@
 `timescale 1ns / 1ps
 //////////////////////////////////////////////////////////////////////////////////
-// By Omar Aquino Pineda
+// 
 // File Name: H_Sync.v
 // The following module uses a 100Mhz clock as its clk value. However, it runs at 
 // 25Mhz frequency (tick). The horizontal tick is positive when the count (q) 
